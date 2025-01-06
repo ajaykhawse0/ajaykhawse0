@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @ajaykhawse0
+- 👋 Hi, I’m @ajaykhawse
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning DSA IN C++..
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on LinkedIn https://www.linkedin.com/in/ajay-khawse
 - 📫 You can contact me on ajaykhawse02@gmail.com
-- 😄 Pronouns:Akshu
+
 
 
 <!---
